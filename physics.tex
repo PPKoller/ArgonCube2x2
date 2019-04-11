@@ -26,7 +26,7 @@
 \usepackage[compat=1.1.0]{tikz-feynman}
 \usepackage[labelfont=bf]{caption}
 
-\graphicspath{{plots/}}
+\graphicspath{{plots/2x2/}}
 \renewcommand{\refname}{References}
 \setcounter{MaxMatrixCols}{10}
 
@@ -59,6 +59,192 @@ Laboratory for High Energy Physics (LHEP), Bern, Switzerland}}
 \pagenumbering{arabic}
 
 \subsection{Introduction}
+\subsubsection{EM~Showers}
+\begin{figure}[htbp]
+	\centering
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{EM_contained_frac_2x2.png}
+		\caption{2x2 stand-alone, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\hfill
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+    \includegraphics[width=1.0\textwidth]{EM_contained_frac_2x2_fiducial.png}
+		\caption{2x2 stand-alone, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}	
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{EM_contained_frac_2x2_Scintillator_gap.png}
+		\caption{2x2 + tracker, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\hfill
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{EM_contained_frac_2x2_Scintillator_fiducial_gap.png}
+		\caption{2x2 + tracker, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{EM_contained_frac_2x2_Scintillator_fiducial.png}
+		\caption{2x2 + tracker no gap, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}	
+  \caption{Fraction of kinetic shower energy ($e^{\pm}$~mass ignored) deposited within the active detector volume.}
+\end{figure}
+
+\begin{figure}[htbp]
+	\centering
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{EM_cont_eff_2x2.png}
+		\caption{2x2 stand-alone, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\hfill
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+    \includegraphics[width=1.0\textwidth]{EM_cont_eff_2x2_fiducial.png}
+		\caption{2x2 stand-alone, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}	
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{EM_cont_eff_2x2_Scintillator_gap.png}
+		\caption{2x2 + tracker, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\hfill
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{EM_cont_eff_2x2_Scintillator_fiducial_gap.png}
+		\caption{2x2 + tracker, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{EM_cont_eff_2x2_Scintillator_fiducial.png}
+		\caption{2x2 + tracker no gap, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}	
+	\caption{Shower-containment efficiency. A shower is classed as contained if at least 90\% of the kinetic shower energy ($e^{\pm}$~mass ignored) is deposited within the active detector volume.}
+\end{figure}
+
+\subsubsection{$\pi^{0}$~Showers}
+\begin{figure}[htbp]
+	\centering
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{Pi0_contained_frac_2x2.png}
+		\caption{2x2 stand-alone, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\hfill
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+    \includegraphics[width=1.0\textwidth]{Pi0_contained_frac_2x2_fiducial.png}
+		\caption{2x2 stand-alone, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}	
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{Pi0_contained_frac_2x2_Scintillator_gap.png}
+		\caption{2x2 + tracker, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\hfill
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{Pi0_contained_frac_2x2_Scintillator_fiducial_gap.png}
+		\caption{2x2 + tracker, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{Pi0_contained_frac_2x2_Scintillator_fiducial.png}
+		\caption{2x2 + tracker no gap, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}	
+  \caption{Fraction of total shower energy (including the $\pi^{0}$~mass) deposited within the active detector volume.}
+\end{figure}
+
+\begin{figure}[htbp]
+	\centering
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{Pi0_cont_eff_2x2.png}
+		\caption{2x2 stand-alone, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\hfill
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+    \includegraphics[width=1.0\textwidth]{Pi0_cont_eff_2x2_fiducial.png}
+		\caption{2x2 stand-alone, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}	
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{Pi0_cont_eff_2x2_Scintillator_gap.png}
+		\caption{2x2 + tracker, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\hfill
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{Pi0_cont_eff_2x2_Scintillator_fiducial_gap.png}
+		\caption{2x2 + tracker, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{Pi0_cont_eff_2x2_Scintillator_fiducial.png}
+		\caption{2x2 + tracker no gap, vertex in fiducial volume.}
+		\label{}
+	\end{subfigure}	
+  \caption{Shower-containment efficiency. A shower is classed as contained if at least 90\% of the total shower energy (including the $\pi^{0}$~mass) is deposited within the active detector volume.}
+\end{figure}
+
+\subsubsection{Proton Induced Showers}
+\begin{figure}[htbp]
+	\centering
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{P_contained_frac_2x2.png}
+		\caption{2x2 stand-alone, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\hfill
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{P_contained_frac_2x2_Scintillator_gap.png}
+		\caption{2x2 + tracker, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\caption{Fraction of initial proton kinetic energy deposited within the active detector volume.}
+\end{figure}
+
+\begin{figure}[htbp]
+	\centering
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{P_cont_eff_2x2.png}
+		\caption{2x2 stand-alone, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\hfill
+	\begin{subfigure}[b]{0.49\textwidth}
+		\centering
+		\includegraphics[width=1.0\textwidth]{P_cont_eff_2x2_Scintillator_gap.png}
+		\caption{2x2 + tracker, no fiducialisation.}
+		\label{}
+	\end{subfigure}	
+	\caption{Shower-containment efficiency. A shower is classed as contained if at least 90\% of the initial proton kinetic energy is deposited within the active detector volume.}
+\end{figure}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %---References---

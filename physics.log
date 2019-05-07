@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2019.2.18)  16 APR 2019 10:20
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2019.2.18)  7 MAY 2019 09:51
  restricted system commands enabled.
 **physics.tex
 (./physics.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.093 seconds
+luaotfload | main : initialization completed in 0.084 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -2202,6 +2202,54 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `sub@' multiply defined.
 
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
 )
 \openout1 = physics.aux
 
@@ -2380,19 +2428,19 @@ Package luatex.def Info: plots/2x2/E_contained_frac_2x2.png  used on input line
 (load luc: /home/pkoller/.texlive2018/texmf-var/luatex-cache/generic/fonts/otl/l
 mroman9-regular.luc)(load luc: /home/pkoller/.texlive2018/texmf-var/luatex-cache
 /generic/fonts/otl/lmroman9-bold.luc)
-<plots/2x2/E_contained_frac_2x2_fiducial.png, id=28, 1601.985pt x 1176.395pt>
-File: plots/2x2/E_contained_frac_2x2_fiducial.png Graphic file (type png)
-<use plots/2x2/E_contained_frac_2x2_fiducial.png>
-Package luatex.def Info: plots/2x2/E_contained_frac_2x2_fiducial.png  used on in
-put line 75.
-(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/E_contained_frac_2x2_Scintillator_gap.png, id=29, 1601.985pt x 1176.3
+<plots/2x2/E_contained_frac_2x2_Scintillator_gap.png, id=28, 1601.985pt x 1176.3
 95pt>
 File: plots/2x2/E_contained_frac_2x2_Scintillator_gap.png Graphic file (type png
 )
 <use plots/2x2/E_contained_frac_2x2_Scintillator_gap.png>
 Package luatex.def Info: plots/2x2/E_contained_frac_2x2_Scintillator_gap.png  us
-ed on input line 81.
+ed on input line 75.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/E_contained_frac_2x2_fiducial.png, id=29, 1601.985pt x 1176.395pt>
+File: plots/2x2/E_contained_frac_2x2_fiducial.png Graphic file (type png)
+<use plots/2x2/E_contained_frac_2x2_fiducial.png>
+Package luatex.def Info: plots/2x2/E_contained_frac_2x2_fiducial.png  used on in
+put line 81.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
 <plots/2x2/E_contained_frac_2x2_Scintillator_fiducial_gap.png, id=30, 1601.985pt
  x 1176.395pt>
@@ -2407,17 +2455,17 @@ File: plots/2x2/E_cont_eff_2x2.png Graphic file (type png)
 <use plots/2x2/E_cont_eff_2x2.png>
 Package luatex.def Info: plots/2x2/E_cont_eff_2x2.png  used on input line 105.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/E_cont_eff_2x2_fiducial.png, id=32, 1601.985pt x 1176.395pt>
-File: plots/2x2/E_cont_eff_2x2_fiducial.png Graphic file (type png)
-<use plots/2x2/E_cont_eff_2x2_fiducial.png>
-Package luatex.def Info: plots/2x2/E_cont_eff_2x2_fiducial.png  used on input li
-ne 112.
-(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/E_cont_eff_2x2_Scintillator_gap.png, id=33, 1601.985pt x 1176.395pt>
+<plots/2x2/E_cont_eff_2x2_Scintillator_gap.png, id=32, 1601.985pt x 1176.395pt>
 File: plots/2x2/E_cont_eff_2x2_Scintillator_gap.png Graphic file (type png)
 <use plots/2x2/E_cont_eff_2x2_Scintillator_gap.png>
 Package luatex.def Info: plots/2x2/E_cont_eff_2x2_Scintillator_gap.png  used on 
-input line 118.
+input line 112.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/E_cont_eff_2x2_fiducial.png, id=33, 1601.985pt x 1176.395pt>
+File: plots/2x2/E_cont_eff_2x2_fiducial.png Graphic file (type png)
+<use plots/2x2/E_cont_eff_2x2_fiducial.png>
+Package luatex.def Info: plots/2x2/E_cont_eff_2x2_fiducial.png  used on input li
+ne 118.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
 <plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap.png, id=34, 1601.985pt x 117
 6.395pt>
@@ -2427,235 +2475,306 @@ png)
 Package luatex.def Info: plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap.png 
  used on input line 125.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/EM_contained_frac_2x2.png, id=35, 1601.985pt x 1176.395pt>
+<plots/2x2/E_contained_frac_2x2_fiducial_gap_no_muon.png, id=35, 1601.985pt x 11
+76.395pt>
+File: plots/2x2/E_contained_frac_2x2_fiducial_gap_no_muon.png Graphic file (type
+ png)
+<use plots/2x2/E_contained_frac_2x2_fiducial_gap_no_muon.png>
+Package luatex.def Info: plots/2x2/E_contained_frac_2x2_fiducial_gap_no_muon.png
+  used on input line 142.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/E_contained_frac_2x2_Scintillator_fiducial_gap_no_muon.png, id=36, 16
+01.985pt x 1176.395pt>
+File: plots/2x2/E_contained_frac_2x2_Scintillator_fiducial_gap_no_muon.png Graph
+ic file (type png)
+<use plots/2x2/E_contained_frac_2x2_Scintillator_fiducial_gap_no_muon.png>
+Package luatex.def Info: plots/2x2/E_contained_frac_2x2_Scintillator_fiducial_ga
+p_no_muon.png  used on input line 149.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/E_cont_eff_2x2_fiducial_gap_no_muon.png, id=37, 1601.985pt x 1176.395
+pt>
+File: plots/2x2/E_cont_eff_2x2_fiducial_gap_no_muon.png Graphic file (type png)
+<use plots/2x2/E_cont_eff_2x2_fiducial_gap_no_muon.png>
+Package luatex.def Info: plots/2x2/E_cont_eff_2x2_fiducial_gap_no_muon.png  used
+ on input line 160.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap_no_muon.png, id=38, 1601.985
+pt x 1176.395pt>
+File: plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap_no_muon.png Graphic fil
+e (type png)
+<use plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap_no_muon.png>
+Package luatex.def Info: plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap_no_m
+uon.png  used on input line 167.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/E_contained_frac_2x2_fiducial_gap_no_prim_muon.png, id=39, 1601.985pt
+ x 1176.395pt>
+File: plots/2x2/E_contained_frac_2x2_fiducial_gap_no_prim_muon.png Graphic file 
+(type png)
+<use plots/2x2/E_contained_frac_2x2_fiducial_gap_no_prim_muon.png>
+Package luatex.def Info: plots/2x2/E_contained_frac_2x2_fiducial_gap_no_prim_muo
+n.png  used on input line 178.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/E_contained_frac_2x2_Scintillator_fiducial_gap_no_prim_muon.png, id=4
+0, 1601.985pt x 1176.395pt>
+File: plots/2x2/E_contained_frac_2x2_Scintillator_fiducial_gap_no_prim_muon.png 
+Graphic file (type png)
+<use plots/2x2/E_contained_frac_2x2_Scintillator_fiducial_gap_no_prim_muon.png>
+Package luatex.def Info: plots/2x2/E_contained_frac_2x2_Scintillator_fiducial_ga
+p_no_prim_muon.png  used on input line 185.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/E_cont_eff_2x2_fiducial_gap_no_prim_muon.png, id=41, 1601.985pt x 117
+6.395pt>
+File: plots/2x2/E_cont_eff_2x2_fiducial_gap_no_prim_muon.png Graphic file (type 
+png)
+<use plots/2x2/E_cont_eff_2x2_fiducial_gap_no_prim_muon.png>
+Package luatex.def Info: plots/2x2/E_cont_eff_2x2_fiducial_gap_no_prim_muon.png 
+ used on input line 196.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap_no_prim_muon.png, id=42, 160
+1.985pt x 1176.395pt>
+File: plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap_no_prim_muon.png Graphi
+c file (type png)
+<use plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap_no_prim_muon.png>
+Package luatex.def Info: plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap_no_p
+rim_muon.png  used on input line 203.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/EM_contained_frac_2x2.png, id=43, 1601.985pt x 1176.395pt>
 File: plots/2x2/EM_contained_frac_2x2.png Graphic file (type png)
 <use plots/2x2/EM_contained_frac_2x2.png>
 Package luatex.def Info: plots/2x2/EM_contained_frac_2x2.png  used on input line
- 143.
+ 215.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/EM_contained_frac_2x2_fiducial.png, id=36, 1601.985pt x 1176.395pt>
-File: plots/2x2/EM_contained_frac_2x2_fiducial.png Graphic file (type png)
-<use plots/2x2/EM_contained_frac_2x2_fiducial.png>
-Package luatex.def Info: plots/2x2/EM_contained_frac_2x2_fiducial.png  used on i
-nput line 150.
-(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/EM_contained_frac_2x2_Scintillator_gap.png, id=37, 1601.985pt x 1176.
+<plots/2x2/EM_contained_frac_2x2_Scintillator_gap.png, id=44, 1601.985pt x 1176.
 395pt>
 File: plots/2x2/EM_contained_frac_2x2_Scintillator_gap.png Graphic file (type pn
 g)
 <use plots/2x2/EM_contained_frac_2x2_Scintillator_gap.png>
 Package luatex.def Info: plots/2x2/EM_contained_frac_2x2_Scintillator_gap.png  u
-sed on input line 156.
+sed on input line 222.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/EM_contained_frac_2x2_Scintillator_fiducial_gap.png, id=38, 1601.985p
+<plots/2x2/EM_contained_frac_2x2_fiducial.png, id=45, 1601.985pt x 1176.395pt>
+File: plots/2x2/EM_contained_frac_2x2_fiducial.png Graphic file (type png)
+<use plots/2x2/EM_contained_frac_2x2_fiducial.png>
+Package luatex.def Info: plots/2x2/EM_contained_frac_2x2_fiducial.png  used on i
+nput line 228.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/EM_contained_frac_2x2_Scintillator_fiducial_gap.png, id=46, 1601.985p
 t x 1176.395pt>
 File: plots/2x2/EM_contained_frac_2x2_Scintillator_fiducial_gap.png Graphic file
  (type png)
 <use plots/2x2/EM_contained_frac_2x2_Scintillator_fiducial_gap.png>
 Package luatex.def Info: plots/2x2/EM_contained_frac_2x2_Scintillator_fiducial_g
-ap.png  used on input line 163.
+ap.png  used on input line 235.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/EM_contained_frac_2x2_Scintillator_fiducial.png, id=39, 1601.985pt x 
+<plots/2x2/EM_contained_frac_2x2_Scintillator_fiducial.png, id=47, 1601.985pt x 
 1176.395pt>
 File: plots/2x2/EM_contained_frac_2x2_Scintillator_fiducial.png Graphic file (ty
 pe png)
 <use plots/2x2/EM_contained_frac_2x2_Scintillator_fiducial.png>
 Package luatex.def Info: plots/2x2/EM_contained_frac_2x2_Scintillator_fiducial.p
-ng  used on input line 169.
+ng  used on input line 241.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/EM_cont_eff_2x2.png, id=40, 1601.985pt x 1176.395pt>
+<plots/2x2/EM_cont_eff_2x2.png, id=48, 1601.985pt x 1176.395pt>
 File: plots/2x2/EM_cont_eff_2x2.png Graphic file (type png)
 <use plots/2x2/EM_cont_eff_2x2.png>
-Package luatex.def Info: plots/2x2/EM_cont_eff_2x2.png  used on input line 180.
+Package luatex.def Info: plots/2x2/EM_cont_eff_2x2.png  used on input line 252.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/EM_cont_eff_2x2_fiducial.png, id=41, 1601.985pt x 1176.395pt>
-File: plots/2x2/EM_cont_eff_2x2_fiducial.png Graphic file (type png)
-<use plots/2x2/EM_cont_eff_2x2_fiducial.png>
-Package luatex.def Info: plots/2x2/EM_cont_eff_2x2_fiducial.png  used on input l
-ine 187.
-(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/EM_cont_eff_2x2_Scintillator_gap.png, id=42, 1601.985pt x 1176.395pt>
+<plots/2x2/EM_cont_eff_2x2_Scintillator_gap.png, id=49, 1601.985pt x 1176.395pt>
 
 File: plots/2x2/EM_cont_eff_2x2_Scintillator_gap.png Graphic file (type png)
 <use plots/2x2/EM_cont_eff_2x2_Scintillator_gap.png>
 Package luatex.def Info: plots/2x2/EM_cont_eff_2x2_Scintillator_gap.png  used on
- input line 193.
+ input line 259.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/EM_cont_eff_2x2_Scintillator_fiducial_gap.png, id=43, 1601.985pt x 11
+<plots/2x2/EM_cont_eff_2x2_fiducial.png, id=50, 1601.985pt x 1176.395pt>
+File: plots/2x2/EM_cont_eff_2x2_fiducial.png Graphic file (type png)
+<use plots/2x2/EM_cont_eff_2x2_fiducial.png>
+Package luatex.def Info: plots/2x2/EM_cont_eff_2x2_fiducial.png  used on input l
+ine 265.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/EM_cont_eff_2x2_Scintillator_fiducial_gap.png, id=51, 1601.985pt x 11
 76.395pt>
 File: plots/2x2/EM_cont_eff_2x2_Scintillator_fiducial_gap.png Graphic file (type
  png)
 <use plots/2x2/EM_cont_eff_2x2_Scintillator_fiducial_gap.png>
 Package luatex.def Info: plots/2x2/EM_cont_eff_2x2_Scintillator_fiducial_gap.png
-  used on input line 200.
+  used on input line 272.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/EM_cont_eff_2x2_Scintillator_fiducial.png, id=44, 1601.985pt x 1176.3
+<plots/2x2/EM_cont_eff_2x2_Scintillator_fiducial.png, id=52, 1601.985pt x 1176.3
 95pt>
 File: plots/2x2/EM_cont_eff_2x2_Scintillator_fiducial.png Graphic file (type png
 )
 <use plots/2x2/EM_cont_eff_2x2_Scintillator_fiducial.png>
 Package luatex.def Info: plots/2x2/EM_cont_eff_2x2_Scintillator_fiducial.png  us
-ed on input line 206.
+ed on input line 278.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 213.
+(hyperref)                removing `math shift' on input line 285.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pi' on input line 213.
+(hyperref)                removing `\pi' on input line 285.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 213.
+(hyperref)                removing `superscript' on input line 285.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 213.
+(hyperref)                removing `math shift' on input line 285.
 
-<plots/2x2/Pi0_contained_frac_2x2.png, id=45, 1601.985pt x 1176.395pt>
+<plots/2x2/Pi0_contained_frac_2x2.png, id=53, 1601.985pt x 1176.395pt>
 File: plots/2x2/Pi0_contained_frac_2x2.png Graphic file (type png)
 <use plots/2x2/Pi0_contained_frac_2x2.png>
 Package luatex.def Info: plots/2x2/Pi0_contained_frac_2x2.png  used on input lin
-e 218.
+e 290.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/Pi0_contained_frac_2x2_fiducial.png, id=46, 1601.985pt x 1176.395pt>
-File: plots/2x2/Pi0_contained_frac_2x2_fiducial.png Graphic file (type png)
-<use plots/2x2/Pi0_contained_frac_2x2_fiducial.png>
-Package luatex.def Info: plots/2x2/Pi0_contained_frac_2x2_fiducial.png  used on 
-input line 225.
-(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/Pi0_contained_frac_2x2_Scintillator_gap.png, id=47, 1601.985pt x 1176
+<plots/2x2/Pi0_contained_frac_2x2_Scintillator_gap.png, id=54, 1601.985pt x 1176
 .395pt>
 File: plots/2x2/Pi0_contained_frac_2x2_Scintillator_gap.png Graphic file (type p
 ng)
 <use plots/2x2/Pi0_contained_frac_2x2_Scintillator_gap.png>
 Package luatex.def Info: plots/2x2/Pi0_contained_frac_2x2_Scintillator_gap.png  
-used on input line 231.
+used on input line 297.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/Pi0_contained_frac_2x2_Scintillator_fiducial_gap.png, id=48, 1601.985
+<plots/2x2/Pi0_contained_frac_2x2_fiducial.png, id=55, 1601.985pt x 1176.395pt>
+File: plots/2x2/Pi0_contained_frac_2x2_fiducial.png Graphic file (type png)
+<use plots/2x2/Pi0_contained_frac_2x2_fiducial.png>
+Package luatex.def Info: plots/2x2/Pi0_contained_frac_2x2_fiducial.png  used on 
+input line 303.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/Pi0_contained_frac_2x2_Scintillator_fiducial_gap.png, id=56, 1601.985
 pt x 1176.395pt>
 File: plots/2x2/Pi0_contained_frac_2x2_Scintillator_fiducial_gap.png Graphic fil
 e (type png)
 <use plots/2x2/Pi0_contained_frac_2x2_Scintillator_fiducial_gap.png>
 Package luatex.def Info: plots/2x2/Pi0_contained_frac_2x2_Scintillator_fiducial_
-gap.png  used on input line 238.
+gap.png  used on input line 310.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/Pi0_contained_frac_2x2_Scintillator_fiducial.png, id=49, 1601.985pt x
+<plots/2x2/Pi0_contained_frac_2x2_Scintillator_fiducial.png, id=57, 1601.985pt x
  1176.395pt>
 File: plots/2x2/Pi0_contained_frac_2x2_Scintillator_fiducial.png Graphic file (t
 ype png)
 <use plots/2x2/Pi0_contained_frac_2x2_Scintillator_fiducial.png>
 Package luatex.def Info: plots/2x2/Pi0_contained_frac_2x2_Scintillator_fiducial.
-png  used on input line 244.
+png  used on input line 316.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/Pi0_cont_eff_2x2.png, id=50, 1601.985pt x 1176.395pt>
+<plots/2x2/Pi0_cont_eff_2x2.png, id=58, 1601.985pt x 1176.395pt>
 File: plots/2x2/Pi0_cont_eff_2x2.png Graphic file (type png)
 <use plots/2x2/Pi0_cont_eff_2x2.png>
-Package luatex.def Info: plots/2x2/Pi0_cont_eff_2x2.png  used on input line 255.
+Package luatex.def Info: plots/2x2/Pi0_cont_eff_2x2.png  used on input line 327.
 
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/Pi0_cont_eff_2x2_fiducial.png, id=51, 1601.985pt x 1176.395pt>
-File: plots/2x2/Pi0_cont_eff_2x2_fiducial.png Graphic file (type png)
-<use plots/2x2/Pi0_cont_eff_2x2_fiducial.png>
-Package luatex.def Info: plots/2x2/Pi0_cont_eff_2x2_fiducial.png  used on input 
-line 262.
-(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/Pi0_cont_eff_2x2_Scintillator_gap.png, id=52, 1601.985pt x 1176.395pt
+<plots/2x2/Pi0_cont_eff_2x2_Scintillator_gap.png, id=59, 1601.985pt x 1176.395pt
 >
 File: plots/2x2/Pi0_cont_eff_2x2_Scintillator_gap.png Graphic file (type png)
 <use plots/2x2/Pi0_cont_eff_2x2_Scintillator_gap.png>
 Package luatex.def Info: plots/2x2/Pi0_cont_eff_2x2_Scintillator_gap.png  used o
-n input line 268.
+n input line 334.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial_gap.png, id=53, 1601.985pt x 1
+<plots/2x2/Pi0_cont_eff_2x2_fiducial.png, id=60, 1601.985pt x 1176.395pt>
+File: plots/2x2/Pi0_cont_eff_2x2_fiducial.png Graphic file (type png)
+<use plots/2x2/Pi0_cont_eff_2x2_fiducial.png>
+Package luatex.def Info: plots/2x2/Pi0_cont_eff_2x2_fiducial.png  used on input 
+line 340.
+(luatex.def)             Requested size: 214.87433pt x 157.78331pt.
+<plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial_gap.png, id=61, 1601.985pt x 1
 176.395pt>
 File: plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial_gap.png Graphic file (typ
 e png)
 <use plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial_gap.png>
 Package luatex.def Info: plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial_gap.pn
-g  used on input line 275.
+g  used on input line 347.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial.png, id=54, 1601.985pt x 1176.
+<plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial.png, id=62, 1601.985pt x 1176.
 395pt>
 File: plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial.png Graphic file (type pn
 g)
 <use plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial.png>
 Package luatex.def Info: plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial.png  u
-sed on input line 281.
+sed on input line 353.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/P_contained_frac_2x2.png, id=55, 1601.985pt x 1176.395pt>
+<plots/2x2/P_contained_frac_2x2.png, id=63, 1601.985pt x 1176.395pt>
 File: plots/2x2/P_contained_frac_2x2.png Graphic file (type png)
 <use plots/2x2/P_contained_frac_2x2.png>
 Package luatex.def Info: plots/2x2/P_contained_frac_2x2.png  used on input line 
-293.
+365.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/P_contained_frac_2x2_Scintillator_gap.png, id=56, 1601.985pt x 1176.3
+<plots/2x2/P_contained_frac_2x2_Scintillator_gap.png, id=64, 1601.985pt x 1176.3
 95pt>
 File: plots/2x2/P_contained_frac_2x2_Scintillator_gap.png Graphic file (type png
 )
 <use plots/2x2/P_contained_frac_2x2_Scintillator_gap.png>
 Package luatex.def Info: plots/2x2/P_contained_frac_2x2_Scintillator_gap.png  us
-ed on input line 300.
+ed on input line 372.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/P_cont_eff_2x2.png, id=57, 1601.985pt x 1176.395pt>
+<plots/2x2/P_cont_eff_2x2.png, id=65, 1601.985pt x 1176.395pt>
 File: plots/2x2/P_cont_eff_2x2.png Graphic file (type png)
 <use plots/2x2/P_cont_eff_2x2.png>
-Package luatex.def Info: plots/2x2/P_cont_eff_2x2.png  used on input line 311.
+Package luatex.def Info: plots/2x2/P_cont_eff_2x2.png  used on input line 383.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
-<plots/2x2/P_cont_eff_2x2_Scintillator_gap.png, id=58, 1601.985pt x 1176.395pt>
+<plots/2x2/P_cont_eff_2x2_Scintillator_gap.png, id=66, 1601.985pt x 1176.395pt>
 File: plots/2x2/P_cont_eff_2x2_Scintillator_gap.png Graphic file (type png)
 <use plots/2x2/P_cont_eff_2x2_Scintillator_gap.png>
 Package luatex.def Info: plots/2x2/P_cont_eff_2x2_Scintillator_gap.png  used on 
-input line 318.
+input line 390.
 (luatex.def)             Requested size: 214.87433pt x 157.78331pt.
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./plots/2
-x2/E_contained_frac_2x2.png><./plots/2x2/E_contained_frac_2x2_fiducial.png><./pl
-ots/2x2/E_contained_frac_2x2_Scintillator_gap.png><./plots/2x2/E_contained_frac_
+x2/E_contained_frac_2x2.png><./plots/2x2/E_contained_frac_2x2_Scintillator_gap.p
+ng><./plots/2x2/E_contained_frac_2x2_fiducial.png><./plots/2x2/E_contained_frac_
 2x2_Scintillator_fiducial_gap.png>] [2<./plots/2x2/E_cont_eff_2x2.png><./plots/2
-x2/E_cont_eff_2x2_fiducial.png><./plots/2x2/E_cont_eff_2x2_Scintillator_gap.png>
-<./plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap.png>] [3<./plots/2x2/EM_co
-ntained_frac_2x2.png><./plots/2x2/EM_contained_frac_2x2_fiducial.png><./plots/2x
-2/EM_contained_frac_2x2_Scintillator_gap.png><./plots/2x2/EM_contained_frac_2x2_
-Scintillator_fiducial_gap.png><./plots/2x2/EM_contained_frac_2x2_Scintillator_fi
-ducial.png>] [4<./plots/2x2/EM_cont_eff_2x2.png><./plots/2x2/EM_cont_eff_2x2_fid
-ucial.png><./plots/2x2/EM_cont_eff_2x2_Scintillator_gap.png><./plots/2x2/EM_cont
-_eff_2x2_Scintillator_fiducial_gap.png><./plots/2x2/EM_cont_eff_2x2_Scintillator
-_fiducial.png>] [5<./plots/2x2/Pi0_contained_frac_2x2.png><./plots/2x2/Pi0_conta
-ined_frac_2x2_fiducial.png><./plots/2x2/Pi0_contained_frac_2x2_Scintillator_gap.
-png><./plots/2x2/Pi0_contained_frac_2x2_Scintillator_fiducial_gap.png><./plots/2
-x2/Pi0_contained_frac_2x2_Scintillator_fiducial.png>] [6<./plots/2x2/Pi0_cont_ef
-f_2x2.png><./plots/2x2/Pi0_cont_eff_2x2_fiducial.png><./plots/2x2/Pi0_cont_eff_2
-x2_Scintillator_gap.png><./plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial_gap.
-png><./plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial.png>] [7<./plots/2x2/P_c
-ontained_frac_2x2.png><./plots/2x2/P_contained_frac_2x2_Scintillator_gap.png><./
-plots/2x2/P_cont_eff_2x2.png><./plots/2x2/P_cont_eff_2x2_Scintillator_gap.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 347.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 347.
- (./physics.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 347.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 347.
+x2/E_cont_eff_2x2_Scintillator_gap.png><./plots/2x2/E_cont_eff_2x2_fiducial.png>
+<./plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap.png><./plots/2x2/E_contain
+ed_frac_2x2_fiducial_gap_no_muon.png><./plots/2x2/E_contained_frac_2x2_Scintilla
+tor_fiducial_gap_no_muon.png>] [3<./plots/2x2/E_cont_eff_2x2_fiducial_gap_no_muo
+n.png><./plots/2x2/E_cont_eff_2x2_Scintillator_fiducial_gap_no_muon.png><./plots
+/2x2/E_contained_frac_2x2_fiducial_gap_no_prim_muon.png><./plots/2x2/E_contained
+_frac_2x2_Scintillator_fiducial_gap_no_prim_muon.png><./plots/2x2/E_cont_eff_2x2
+_fiducial_gap_no_prim_muon.png><./plots/2x2/E_cont_eff_2x2_Scintillator_fiducial
+_gap_no_prim_muon.png>] [4<./plots/2x2/EM_contained_frac_2x2.png><./plots/2x2/EM
+_contained_frac_2x2_Scintillator_gap.png><./plots/2x2/EM_contained_frac_2x2_fidu
+cial.png><./plots/2x2/EM_contained_frac_2x2_Scintillator_fiducial_gap.png><./plo
+ts/2x2/EM_contained_frac_2x2_Scintillator_fiducial.png>]
+[5<./plots/2x2/EM_cont_eff_2x2.png><./plots/2x2/EM_cont_eff_2x2_Scintillator_gap
+.png><./plots/2x2/EM_cont_eff_2x2_fiducial.png><./plots/2x2/EM_cont_eff_2x2_Scin
+tillator_fiducial_gap.png><./plots/2x2/EM_cont_eff_2x2_Scintillator_fiducial.png
+>] [6<./plots/2x2/Pi0_contained_frac_2x2.png><./plots/2x2/Pi0_contained_frac_2x2
+_Scintillator_gap.png><./plots/2x2/Pi0_contained_frac_2x2_fiducial.png><./plots/
+2x2/Pi0_contained_frac_2x2_Scintillator_fiducial_gap.png><./plots/2x2/Pi0_contai
+ned_frac_2x2_Scintillator_fiducial.png>] [7<./plots/2x2/Pi0_cont_eff_2x2.png><./
+plots/2x2/Pi0_cont_eff_2x2_Scintillator_gap.png><./plots/2x2/Pi0_cont_eff_2x2_fi
+ducial.png><./plots/2x2/Pi0_cont_eff_2x2_Scintillator_fiducial_gap.png><./plots/
+2x2/Pi0_cont_eff_2x2_Scintillator_fiducial.png>] [8<./plots/2x2/P_contained_frac
+_2x2.png><./plots/2x2/P_contained_frac_2x2_Scintillator_gap.png><./plots/2x2/P_c
+ont_eff_2x2.png><./plots/2x2/P_cont_eff_2x2_Scintillator_gap.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 419.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 419.
+
+(./physics.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 419.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 419.
 Package rerunfilecheck Info: File `physics.out' has not changed.
-(rerunfilecheck)             Checksum: 411F7056F0B75B1DBF916BCFA757D1A0;308.
+(rerunfilecheck)             Checksum: C8314AABFC2BC7FC5FC3224716B7CA38;309.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 347.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 419.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33868 strings out of 494413
+ 33969 strings out of 494413
  125016,953878 words of node,token memory allocated
- 603 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 11 glue, 1 kern, 16 attribute, 60 glue_spec, 16 att
+ 647 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 15 glue, 1 kern, 20 attribute, 60 glue_spec, 20 att
 ribute_list, 1 write nodes
-   avail lists: 1:10,2:1981,3:507,4:171,5:273,6:133,7:4014,8:187,9:647,10:13,11:
-249
- 36730 multiletter control sequences out of 65536+600000
+   avail lists: 1:10,2:2445,3:645,4:214,5:350,6:169,7:5467,8:243,9:805,10:13,11:
+349
+ 36762 multiletter control sequences out of 65536+600000
  78 fonts using 9730239 bytes
  61i,8n,80p,464b,568s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.o
@@ -2673,10 +2792,10 @@ an12-bold.otf></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm
 mmi9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6
 .pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on physics.pdf (7 pages, 1920967 bytes).
+Output written on physics.pdf (8 pages, 2285863 bytes).
 
-PDF statistics: 192 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 131072)
+PDF statistics: 208 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 131072)
  56 words of extra memory for PDF output out of 10000 (max. 100000000)
 
